@@ -1,10 +1,10 @@
 # Twitter-video-Downloader
 
-apt update
+aptapt update
 
 apt install git curl -y
 
-git clone git://github.com/WHOAMI-XD-KING/Twitter-video-Downloader
+git clone https://github.com/WHOAMI-XD-KING/Twitter-video-Downloader
 
 cd Twitter-video-Downloader
 
